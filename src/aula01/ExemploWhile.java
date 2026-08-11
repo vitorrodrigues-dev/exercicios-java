@@ -1,6 +1,6 @@
 package aula01;
 
-public class exemploWhile {
+public class ExemploWhile {
     public static void main(String[] args) {
 
         // [PASSO 1]: PREPARAÇÃO DA VARIÁVEL (O CONTADOR)

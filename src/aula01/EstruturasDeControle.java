@@ -1,6 +1,6 @@
 package aula01;
 
-public class Estruturasdecontrole {
+public class EstruturasDeControle {
     public static void main(String[] args) {
         byte idade = 19;
         boolean temCarteira = true;
@@ -9,10 +9,6 @@ public class Estruturasdecontrole {
             System.out.println("Pode dirigir!");
         }
         }
-
-
-
-
 
     }
 

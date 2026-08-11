@@ -2,7 +2,7 @@ package aula01;
 
 import java.util.Scanner;
 
-public class calculadora {
+public class Calculadora {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Bem-vindo à Calculadora!");
