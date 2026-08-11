@@ -1,7 +1,7 @@
 package aula01;
 import java.util.Scanner;
 
-public class TesteDeMatéria {
+public class TesteDeMateria {
     public static void main(String[] args) {
 
         Scanner leitor = new Scanner(System.in);
