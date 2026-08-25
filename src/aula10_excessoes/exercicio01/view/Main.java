@@ -1,6 +1,6 @@
-package aula10_excessoes.view;
+package aula10_excessoes.exercicio01.view;
 
-import aula10_excessoes.model.Pessoa;
+import aula10_excessoes.exercicio01.model.Pessoa;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

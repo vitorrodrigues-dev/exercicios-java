@@ -1,6 +1,4 @@
-package aula10_excessoes.model;
-
-import java.nio.charset.StandardCharsets;
+package aula10_excessoes.exercicio01.model;
 
 public class Pessoa {
 
